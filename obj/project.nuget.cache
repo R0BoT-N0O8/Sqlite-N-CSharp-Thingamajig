@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IEJ8yhQUTZU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leevi\\OneDrive\\Tiedostot\\GitHub\\Sqlite-N-CSharp-Thingamajig\\Sqlite-N-CSharp-Thingamajig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leevi\\.nuget\\packages\\microsoft.data.sqlite\\9.0.9\\microsoft.data.sqlite.9.0.9.nupkg.sha512",
+    "C:\\Users\\Leevi\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.9\\microsoft.data.sqlite.core.9.0.9.nupkg.sha512",
+    "C:\\Users\\Leevi\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\Leevi\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\Leevi\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\Leevi\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\Leevi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
